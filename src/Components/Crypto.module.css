@@ -1,7 +1,8 @@
 .container {
-  max-width: 55%;
+  max-width: 60%;
   margin: 50px auto;
   padding-left: 250px;
+  background-color: #f8fafd;
 }
 
 h1{
